@@ -1,0 +1,4 @@
+http://panel.globepremium.com:8000/c/
+00:1A:79:5b:99:2
+00:1A:79:3d:15:c9
+00:1A:79:3d:16:55
